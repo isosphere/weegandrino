@@ -1,0 +1,5 @@
+A simple Arduino sketch that allows one to read the raw
+data from any Wiegand interface. Seems to work pretty well,
+not sure where I want to go with the project.
+
+Maybe a format guesser?
