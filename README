@@ -1,8 +1,6 @@
-A simple Arduino sketch that allows one to read the raw
-data from any Wiegand interface. Seems to work pretty well,
-not sure where I want to go with the project.
+A simple Arduino sketch that allows one to read the raw data from any Wiegand interface (common interface for card readers). 
 
-Maybe a format guesser?
+Seems to work pretty well, not sure where I want to go with the project. Maybe a format guesser?
 
 Make sure you wire data0 and data1 correctly, and ensure the ground of your 
 Arduino is the same as the ground for your card reader.
